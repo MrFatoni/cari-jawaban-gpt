@@ -13,3 +13,6 @@ Chrome akan memuat ekstensi dan menambahkannya ke daftar ekstensi yang terpasang
 
 1. Pilih teks dengan tahan klik kiri
 2. Klik ikon merah pada Bar Extension
+
+
+![image](https://github.com/MrFatoni/cari-jawaban-gpt/assets/47595359/f650c4f3-d257-4f5b-9a27-31e5edf50191)
