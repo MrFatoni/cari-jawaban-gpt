@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Cari Jawaban",
+  "version": "1.0",
+  "description": "Cari jawaban dengan API Openai",
+  "icons": {
+    "48": "images/red.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "action": {}
+}
