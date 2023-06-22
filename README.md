@@ -16,3 +16,7 @@ Chrome akan memuat ekstensi dan menambahkannya ke daftar ekstensi yang terpasang
 
 
 ![image](https://github.com/MrFatoni/cari-jawaban-gpt/assets/47595359/f650c4f3-d257-4f5b-9a27-31e5edf50191)
+
+
+
+ios/macos shortcut: [https://www.icloud.com/shortcuts/f626e26d51da4a2a924bdf765f2b6834](https://www.icloud.com/shortcuts/f626e26d51da4a2a924bdf765f2b6834)
